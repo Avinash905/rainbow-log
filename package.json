@@ -1,0 +1,47 @@
+{
+  "name": "rainbow-log",
+  "version": "1.0.0",
+  "description": "A library for coloring console logs",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Avinash905/rainbow-log.git"
+  },
+  "keywords": [
+    "console",
+    "logs",
+    "color",
+    "colorful",
+    "output",
+    "styling",
+    "text",
+    "formatting",
+    "visual",
+    "debugging",
+    "rainbow",
+    "palette",
+    "hue",
+    "print",
+    "javascript",
+    "library",
+    "npm",
+    "package"
+  ],
+  "author": "Dunna Avinash <avinash.90527@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Avinash905/rainbow-log/issues"
+  },
+  "homepage": "https://github.com/Avinash905/rainbow-log#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
